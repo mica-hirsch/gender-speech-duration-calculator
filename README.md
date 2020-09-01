@@ -3,6 +3,9 @@ This tool uses InaSpeechSegmenter and a few more tools to calculate the percenta
 Although we acknowledge there are many more genders than male/female, and that there is no such thing as a "woman's voice" or a "man's voice", this tool tries its best to make a contribution to make gender inequality more visible. Hopefully in the future there will be more developed tools that fight gender inequality for all genders.
 
 Recommended: open in colab.
+<a href="https://colab.research.google.com/github/googlecolab/colabtools/blob/mica-hirsch/notebooks/gender-speech-duration-calculator.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/mica-hirsch/notebooks/gender-speech-duration-calculator.ipynb]
 
 InaSpeechSegmenter source: 
